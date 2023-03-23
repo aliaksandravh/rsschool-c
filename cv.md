@@ -11,6 +11,13 @@ Discord: aliaksandravh#5913
 
 E-mail: aliaksandraharkusha@gmail.com
 
+## Skills and Proficiency
+* HTML5, CSS3
+* JavaScript Basics
+* Git, GitHub
+* VS Code
+* Figma
+
 ## Code example
 Codewars KATA exemple
 
