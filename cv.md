@@ -35,5 +35,16 @@ return b.reduce ((a, b) => a+b);
 };
 ```
 
+## Languages
+English - C1 ADVANCED (according to the online test at EFset Logo www.efset.org)
+
+96% EFset Score
+
+Russian - Native
+
+Belarusian - Native
+
+Polish - Intermediate
+
 
 
