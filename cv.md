@@ -18,6 +18,11 @@ E-mail: aliaksandraharkusha@gmail.com
 * VS Code
 * Figma
 
+## Courses
+* HTML and CSS Tutorials on /// (completed)
+* JavaScript Manual on learnjavascript.ru (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
 ## Code example
 Codewars KATA exemple
 
@@ -36,9 +41,7 @@ return b.reduce ((a, b) => a+b);
 ```
 
 ## Languages
-English - C1 ADVANCED (according to the online test at EFset Logo www.efset.org)
-
-96% EFset Score
+English - C1 ADVANCED (according to the online test at EFset Logo www.efset.org) -- 96% EFset Score
 
 Russian - Native
 
