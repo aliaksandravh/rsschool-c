@@ -12,7 +12,7 @@ Discord: aliaksandravh#5913
 E-mail: aliaksandraharkusha@gmail.com
 
 ## About miself
-More than 10 years as a financial analyst. It was at my main job that I met many developers through helping them design an it project for presentation to an investor. I always understood that this is a very interesting area, but I did not believe it, and now I am glad that I can better understand it and in the future realize myself in it.
+More than 10 years as a financial analyst and I often had to work with it projects. I quickly realized that this is one of the most promising areas for the coming decades and I want to be a part of it.
 
 ## Skills and Proficiency
 * HTML5, CSS3
